@@ -54,40 +54,40 @@ answers = [
 # ============================================================
 
 options = [
-    ["A) Bread", "B) Honey", "C) Rice", "D) Sugar"],
+    ["A) Bread", "B) Honey", "C) Rice", "D) Sugar"] ,
 
-    ["A) Earth", "B) Venus", "C) Mars", "D) Jupiter"],
+    ["A) Earth", "B) Venus", "C) Mars", "D) Jupiter"] ,
 
-    ["A) Multan", "B) Lahore", "C) Karachi", "D) Sahiwal"],
+    ["A) Multan", "B) Lahore", "C) Karachi", "D) Sahiwal"] ,
 
-    ["A) Dolphin", "B) Shark", "C) Whale", "D) Octopus"],
+    ["A) Dolphin", "B) Shark", "C) Whale", "D) Octopus"] ,
 
     ["A) Pablo Picasso", "B) Leonardo da Vinci",
-     "C) Vincent van Gogh", "D) Michelangelo"],
+     "C) Vincent van Gogh", "D) Michelangelo"] ,
 
     ["A) Abu Bakr (RA)", "B) Umar ibn al-Khattab (RA)",
-     "C) Bilal ibn Rabah (RA)", "D) Uthman ibn Affan (RA)"],
+     "C) Bilal ibn Rabah (RA)", "D) Uthman ibn Affan (RA)"] ,
 
     ["A) Masjid Quba", "B) Masjid al-Haram",
-     "C) Masjid an-Nabawi", "D) Masjid al-Aqsa"],
+     "C) Masjid an-Nabawi", "D) Masjid al-Aqsa"] ,
 
-    ["A) Chimpanzee", "B) Monkey", "C) Orangutan", "D) Koala"],
+    ["A) Chimpanzee", "B) Monkey", "C) Orangutan", "D) Koala"] ,
 
-    ["A) Egypt", "B) Sudan", "C) Mexico", "D) Iraq"],
+    ["A) Egypt", "B) Sudan", "C) Mexico", "D) Iraq"] ,
 
-    ["A) FRIDAY", "B) HAL 9000", "C) JARVIS", "D) Ultron"],
+    ["A) FRIDAY", "B) HAL 9000", "C) JARVIS", "D) Ultron"] ,
 
-    ["A) Hummingbird", "B) Swift", "C) Kingfisher", "D) Woodpecker"],
+    ["A) Hummingbird", "B) Swift", "C) Kingfisher", "D) Woodpecker"] ,
 
     ["A) Roman Civilization", "B) Greek Civilization",
-     "C) Egyptian Civilization", "D) Ancient Indian Civilization"],
+     "C) Egyptian Civilization", "D) Ancient Indian Civilization"] ,
 
-    ["A) Mars", "B) Venus", "C) Uranus", "D) Neptune"],
+    ["A) Mars", "B) Venus", "C) Uranus", "D) Neptune"] ,
 
     ["A) Russia and China", "B) Brazil and Argentina",
-     "C) Canada and United States", "D) India and Pakistan"],
+     "C) Canada and United States", "D) India and Pakistan"] ,
 
-    ["A) France", "B) Spain", "C) Italy", "D) Germany"],
+    ["A) France", "B) Spain", "C) Italy", "D) Germany"] ,
 
     ["A) Russia", "B) Kazakhstan", "C) Greece", "D) Turkey"]
 ]
