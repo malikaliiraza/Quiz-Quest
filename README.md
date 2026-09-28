@@ -2,15 +2,6 @@
 
 A colorful, terminal-based quiz game. Answer 16 questions across three rounds to win up to **Rs. 150,000**, using lifelines and secured prize tiers along the way.
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
-![Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-<!-- Add a screenshot or GIF of the game here, e.g.:
-![QuizQuest demo](docs/demo.gif)
--->
-
 ## Overview
 
 QuizQuest is a command-line general-knowledge quiz inspired by classic TV quiz shows. Players work through 16 multiple-choice questions in three rounds of increasing difficulty and prize value. Clearing a round **secures** your winnings, so a later wrong answer never drops you below your last safe amount.
