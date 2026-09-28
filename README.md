@@ -1,4 +1,4 @@
-# 🏆 QuizQuest
+# 🏆 Quiz Quest
 
 A colorful, terminal-based quiz game. Answer 16 questions across three rounds to win up to **Rs. 150,000**, using lifelines and secured prize tiers along the way.
 
