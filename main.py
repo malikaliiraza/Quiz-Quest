@@ -6,17 +6,17 @@ import random
 # ============================================================
 
 questions = [
-    "01- Which food can remain edible for thousands of years if properly preserved?",
-    "02- Which planet is known as the Red Planet?",
+    "01- Which food can remain edible for thousands of years if properly preserved?" ,
+    "02- Which planet is known as the Red Planet?" ,
     "03- Which Pakistani city is famous for the shrine of Bahauddin Zakariya?",
-    "04- Which animal has three hearts?",
-    "05- Who painted the Mona Lisa?",
-    "06- Who was the first muezzin of Islam?",
+    "04- Which animal has three hearts?" ,
+    "05- Who painted the Mona Lisa?" ,
+    "06- Who was the first muezzin of Islam?" ,
     "07- What was the name of the mosque built by Prophet Muhammad ﷺ after arriving in Madinah?",
-    "08- Which animal has fingerprints similar to humans?",
-    "09- Which country has more pyramids than Egypt?",
-    "10- What is the name of the AI assistant in Iron Man?",
-    "11- Which bird can fly backwards?",
+    "08- Which animal has fingerprints similar to humans?" ,
+    "09- Which country has more pyramids than Egypt?" ,
+    "10- What is the name of the AI assistant in Iron Man?" ,
+    "11- Which bird can fly backwards?" ,
     "12- Which ancient civilization developed the concept of zero as a number?",
     "13- Which planet rotates in the opposite direction to most planets in our Solar System?",
     "14- Which two countries share the world's longest international land border?",
@@ -148,7 +148,7 @@ def welcome_screen():
 #                         ROUND DISPLAY
 # ============================================================
 
-def show_round(round_number):
+def show_round (round_number):
 
     if round_number == 1:
 
@@ -179,7 +179,7 @@ def show_round(round_number):
 #                         50/50
 # ============================================================
 
-def fifty_fifty(question_number):
+def fifty_fifty (question_number):
 
     correct_answer = answers[question_number]
 
@@ -204,7 +204,7 @@ def fifty_fifty(question_number):
 #                       AUDIENCE POLL
 # ============================================================
 
-def audience_poll(question_number):
+def audience_poll (question_number):
 
     correct_answer = answers[question_number]
 
@@ -336,7 +336,7 @@ def play_game():
 
             show_round(2)
 
-            input("\nPress Enter to start Round 2...")
+            input("\n Press Enter to start Round 2...")
 
         # ====================================================
         # FINAL ROUND
@@ -351,7 +351,7 @@ def play_game():
 
             show_round(3)
 
-            input("\nPress Enter to start the FINAL ROUND...")
+            input("\n Press Enter to start the FINAL ROUND...")
 
         # ====================================================
         # QUESTION DISPLAY
@@ -703,7 +703,7 @@ def play_game():
                 print(
                     RED +
                     "Invalid input! Please enter A, B, C, D, "
-                    "1, 2, 3 or Q." +
+                    "1, 2, 3 or Q."+
                     RESET
                 )
 
