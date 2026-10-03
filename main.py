@@ -6,12 +6,12 @@ import random
 # ============================================================
 
 questions = [
-    "01- Which food can remain edible for thousands of years if properly preserved?",
-    "02- Which planet is known as the Red Planet?",
+    "01- Which food can remain edible for thousands of years if properly preserved?" ,
+    "02- Which planet is known as the Red Planet?" ,
     "03- Which Pakistani city is famous for the shrine of Bahauddin Zakariya?",
-    "04- Which animal has three hearts?",
-    "05- Who painted the Mona Lisa?",
-    "06- Who was the first muezzin of Islam?",
+    "04- Which animal has three hearts?" ,
+    "05- Who painted the Mona Lisa?" ,
+    "06- Who was the first muezzin of Islam?" ,
     "07- What was the name of the mosque built by Prophet Muhammad ﷺ after arriving in Madinah?",
     "08- Which animal has fingerprints similar to humans?",
     "09- Which country has more pyramids than Egypt?",
