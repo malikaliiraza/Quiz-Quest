@@ -31,7 +31,7 @@ It is written in pure Python using only the standard library, so there is nothin
 **Rules**
 
 - A correct answer adds that question's prize to your total.
-- Completing a round locks in your current total as your **secured amount**.
+- Completing a round locks in your current total as your ** secured amount **.
 - A wrong answer ends the game, and you take home your last secured amount.
 - Quitting also lets you take home your last secured amount.
 
