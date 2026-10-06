@@ -4,7 +4,7 @@ A colorful, terminal-based quiz game. Answer 16 questions across three rounds to
 
 ## Overview
 
-QuizQuest is a command-line general-knowledge quiz inspired by classic TV quiz shows. Players work through 16 multiple-choice questions in three rounds of increasing difficulty and prize value. Clearing a round **secures** your winnings, so a later wrong answer never drops you below your last safe amount.
+Quiz Quest is a command-line general-knowledge quiz inspired by classic TV quiz shows. Players work through 16 multiple-choice questions in three rounds of increasing difficulty and prize value. Clearing a round **secures** your winnings, so a later wrong answer never drops you below your last safe amount.
 
 It is written in pure Python using only the standard library, so there is nothing to install.
 
