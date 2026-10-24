@@ -31,7 +31,7 @@ It is written in pure Python using only the standard library, so there is nothin
 **Rules**
 
 - A correct answer adds that question's prize to your total.
-- Completing a round locks in your current total as your ** secured amount **.
+- Completing a round locks in your current total as your **secured amount **.
 - A wrong answer ends the game, and you take home your last secured amount.
 - Quitting also lets you take home your last secured amount.
 
@@ -42,9 +42,9 @@ Each lifeline can be used once per game. 50/50 and Audience Poll can be used on 
 | Key | Lifeline | Description |
 |:---:|----------|-------------|
 | `1` | **50/50** | Removes two incorrect options |
-| `2` | **Audience Poll** | Shows a simulated audience vote as percentages per option |
-| `3` | **Skip Question** | Skips the current question without winning or losing money |
-| `Q` | **Quit** | Ends the game and keeps your secured amount |
+| `2` | ** Audience Poll ** | Shows a simulated audience vote as percentages per option |
+| `3` | ** Skip Question ** | Skips the current question without winning or losing money |
+| `Q` | ** Quit ** | Ends the game and keeps your secured amount |
 
 ## Getting Started
 
