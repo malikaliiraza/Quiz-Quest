@@ -108,7 +108,7 @@ The game lives in a single file. Quiz data is held in four parallel lists (`ques
 
 ## Customizing Questions
 
-Keep the four lists aligned by index when adding or changing questions :
+Keep the four lists aligned by index when adding or changing questions:
 
 ```python
 questions.append("17- What is the largest ocean on Earth?")
@@ -139,9 +139,9 @@ amounts.append(20000)
 Contributions, issues, and feature requests are welcome.
 
 1. Fork the repository
-2. Create a branch : `git checkout -b feature/your-feature`
-3. Commit your changes : `git commit -m "Add your feature"`
-4. Push the branch : `git push origin feature/your-feature`
+2. Create a branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m "Add your feature"`
+4. Push the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
 ## License
