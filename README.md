@@ -41,10 +41,10 @@ Each lifeline can be used once per game. 50/50 and Audience Poll can be used on 
 
 | Key | Lifeline | Description |
 |:---:|----------|-------------|
-| `1` | **50/50** | Removes two incorrect options |
-| `2` | **Audience Poll** | Shows a simulated audience vote as percentages per option |
-| `3` | **Skip Question** | Skips the current question without winning or losing money |
-| `Q` | **Quit** | Ends the game and keeps your secured amount |
+| `1` | ** 50/50 ** | Removes two incorrect options |
+| `2` | ** Audience Poll ** | Shows a simulated audience vote as percentages per option |
+| `3` | ** Skip Question ** | Skips the current question without winning or losing money |
+| `Q` | ** Quit ** | Ends the game and keeps your secured amount |
 
 ## Getting Started
 
@@ -117,7 +117,7 @@ answers.append("C")
 amounts.append(20000)
 ```
 
-> **Note:** Round boundaries (after questions 8, 13, and 16) are hard-coded in `play_game()`. Adjust those indices if you change the number of questions per round.
+> **Note :** Round boundaries (after questions 8, 13, and 16) are hard-coded in `play_game()`. Adjust those indices if you change the number of questions per round.
 
 ## Known Issues
 
@@ -139,9 +139,9 @@ amounts.append(20000)
 Contributions, issues, and feature requests are welcome.
 
 1. Fork the repository
-2. Create a branch : `git checkout -b feature/your-feature`
-3. Commit your changes : `git commit -m "Add your feature"`
-4. Push the branch : `git push origin feature/your-feature`
+2. Create a branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m "Add your feature"`
+4. Push the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
 ## License
