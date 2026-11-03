@@ -12,7 +12,7 @@ It is written in pure Python using only the standard library, so there is nothin
 
 - 16 multiple-choice questions on science, history, geography, Islamic history, art, and pop culture
 - Three rounds with escalating difficulty and prize money
-- Secured prize system : winnings are locked in at the end of each round
+- Secured prize system: winnings are locked in at the end of each round
 - Three lifelines (50/50, Audience Poll, Skip), one use each per game
 - Quit at any time and keep your secured amount
 - Colorful terminal interface using ANSI escape codes
@@ -41,10 +41,10 @@ Each lifeline can be used once per game. 50/50 and Audience Poll can be used on 
 
 | Key | Lifeline | Description |
 |:---:|----------|-------------|
-| `1` | **50/50** | Removes two incorrect options |
-| `2` | **Audience Poll** | Shows a simulated audience vote as percentages per option |
-| `3` | **Skip Question** | Skips the current question without winning or losing money |
-| `Q` | **Quit** | Ends the game and keeps your secured amount |
+| `1` | ** 50/50 ** | Removes two incorrect options |
+| `2` | ** Audience Poll ** | Shows a simulated audience vote as percentages per option |
+| `3` | ** Skip Question ** | Skips the current question without winning or losing money |
+| `Q` | ** Quit ** | Ends the game and keeps your secured amount |
 
 ## Getting Started
 
